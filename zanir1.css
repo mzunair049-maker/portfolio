@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(104, 94, 102);
+}
+nav a{
+    color: rgb(247, 248, 248);
+    font-weight: bold;
+}
+.home{
+    border:3px rgb(231, 89, 7) dotted;
+    height: 560px;
+}
+.home h1{
+    color: rgb(255, 115, 0);
+}
+.home p{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+ol{
+    color: beige;
+    font-weight: bold;
+}
