@@ -1,0 +1,54 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+            border-bottom: 2px solid #333;
+        }
+        .header h1 {
+            font-size: 2rem;
+            color: #12a4d4;
+        }
+        .con a{
+            color: aliceblue;
+            font-weight: bold;
+        }
+        .con a:hover{
+        color: rgb(15, 55, 236);
+        transform: scale(1.2);
+        }
+        .b{
+         display: flex;
+         justify-content: center;
+         gap: 40px;
+         }
+        .zunair h2{
+            color: aqua;
+        }
+        .img{
+            border: #12a4d4 solid;
+            border-radius: 500px;
+            height: 250px;
+            width: 300px;
+       }
+        footer {
+             background-color: #333;
+            color: white;
+            text-align: center;
+            padding:10px;
+            bottom: 0;
+            width: 100%;
+            }
