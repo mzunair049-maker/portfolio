@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(124, 104, 143);
+}
+nav a{
+    color: aliceblue;
+    font-weight: bold;
+}
+.work{
+    border: 3px dotted;
+}
+.work h1{
+    color: chocolate;
+    font-weight: bold;
+}
+p{
+    color: aliceblue;
+    font-weight: bold;
+}
+h2{
+    color: chocolate;
+}
+ol{
+    color: aliceblue;
+    font-weight: bold;
+}
